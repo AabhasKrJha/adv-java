@@ -29,3 +29,7 @@ https://www.youtube.com/watch?v=dBFQei7Cle4&ab_channel=RamPukar
 ### CRUD using EJB
 
 https://www.youtube.com/watch?v=_yDSptmtC38&ab_channel=LearningProgramming
+
+### strut login sucess failure using jsp
+
+https://youtu.be/OrqYDXECsv4?si=EyhaVtyQwNIyXYic
